@@ -1,0 +1,25 @@
+.button{
+    padding: 16px 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: larger;
+}
+.primary{
+    background-color: rgb(40, 125, 230)
+}
+.secondary {
+    background-color:rgb(234, 135, 63);
+    color: black;
+}
+.success{
+    background-color:rgb(128, 255, 38)
+}
+.danger {
+    background-color:rgb(251, 0, 0);
+    color: black;
+}
